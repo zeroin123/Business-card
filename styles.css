@@ -17,7 +17,7 @@ body {
 }
 .total{
     display: flex;
-    margin:0 auto;
+    margin:200px auto;
     border: 2px solid #003049 ;
     border-radius: 10px;
     width: 450px;
